@@ -1,0 +1,1 @@
+("6.7" ("857fa4bc5eaaa8f9151b4c0f8120960f3e6e0dff" . "16b189538a0b5c8a09c3016c74f1c5e1d2360f09") #"/home/vinods/Documents/CS 154 Project-160050006-160050016-160050017/declarations.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
